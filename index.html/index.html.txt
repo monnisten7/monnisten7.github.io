@@ -1,8 +1,0 @@
-index.html
-<html>
- <head>
- <head>
- <body>
-  ths is index.html file
- </body>
-</html>
